@@ -78,4 +78,6 @@ public class ClinicaServiceImpl implements ClinicaService {
 
         clinicaRepository.delete(clinica);
     }
+
+    // Teste de atualizar git
 }
